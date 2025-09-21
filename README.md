@@ -1,4 +1,6 @@
-![logo](https://github.com/adityavardhan20/Aditya/blob/main/Aditya%20Vardhan%20banner.png)
+<img src="https://github.com/adityavardhan20/Aditya/blob/main/Aditya%20Vardhan%20banner.png" alt="logo" width="1000" height="500">
+
+
 
 <h1 align="center">Hi 👋, I'm Aditya Vardhan</h1>
 <h3 align="center">A passionate Software Engineer from India.</h3>
